@@ -1,13 +1,13 @@
-# 📊 E-commerce Sales Dashboard (Excel)
+# E-commerce Sales Dashboard (Excel)
 
-## 📝 Overview
+##  Overview
 This Excel-based **Sales Dashboard** provides an interactive and visual summary of e-commerce performance. It allows users to track **total sales, taxes, quantities, unit prices, and gross income** across multiple product lines, cities, customer types, genders, and payment methods.  
 
 The dashboard is designed for decision-makers to quickly analyze business performance and identify trends, opportunities, and growth areas.  
 
 ---
 
-## ⚙️ Key Metrics Displayed
+## Key Metrics Displayed
 - **Total Sales**: ₹1,55,084  
 - **Total Tax (5%)**: ₹7,385  
 - **Total Quantity Sold**: 2,641 units  
@@ -15,7 +15,7 @@ The dashboard is designed for decision-makers to quickly analyze business perfor
 
 ---
 
-## 📈 Dashboard Components
+## Dashboard Components
 
 ### 1. **KPI Cards (Top Summary)**
 - **Total**: Overall revenue generated.  
@@ -69,7 +69,7 @@ Interactive filters allow real-time data segmentation:
 
 ---
 
-## 🚀 How to Use the Dashboard
+## How to Use the Dashboard
 1. **Open the Excel File** → Ensure macros and pivot tables are enabled.  
 2. **Navigate to Dashboard Sheet** → All visualizations are pre-linked with data.  
 3. **Use Filters (Slicers)** → Apply filters for gender, city, payment type, etc., to analyze specific segments.  
@@ -78,7 +78,7 @@ Interactive filters allow real-time data segmentation:
 
 ---
 
-## 🛠️ Technical Details
+## Technical Details
 - **Tool**: Microsoft Excel (Pivot Tables + Pivot Charts + Slicers)  
 - **Data Source**: E-commerce sales transactions dataset  
 - **Visualization Types**:
@@ -90,7 +90,7 @@ Interactive filters allow real-time data segmentation:
 
 ---
 
-## 📌 Insights You Can Get
+## Insights You Can Get
 - Which **city** contributes the most sales?  
 - Which **product line** generates the highest revenue?  
 - Do **members** or **normal customers** spend more?  
@@ -99,10 +99,10 @@ Interactive filters allow real-time data segmentation:
 
 ---
 
-## 📂 File Information
+## File Information
 - **File Name**: `Final Dashboard.xlsx`  
 - **Contains**: Sales data, Pivot tables, Charts, Dashboard view  
 
 ---
 
-✅ This dashboard provides a **360° view of e-commerce performance** and is ideal for managers, business analysts, and stakeholders who want quick insights into sales trends.  
+ This dashboard provides a **360° view of e-commerce performance** and is ideal for managers, business analysts, and stakeholders who want quick insights into sales trends.  
